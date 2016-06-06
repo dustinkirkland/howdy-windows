@@ -20,24 +20,8 @@ build:
 	ghc -o haskell/howdy haskell/howdy.hs
 	# java
 	javac java/Howdy.java
-	java -classpath java Howdy
-	# lisp
-	clisp lisp/howdy.lisp
-	# nodejs
-	nodejs nodejs/howdy.js
 	# pascal
 	pc pascal/howdy.pas
-	./pascal/howdy
-	# perl
-	perl perl/howdy.pl
-	# php
-	php php/howdy.php
-	# python
-	python python/howdy.py
-	# ruby
-	ruby ruby/howdy.rb
-	# shell
-	bash shell/howdy.sh
 
 run:
 	# c
