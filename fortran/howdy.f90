@@ -1,4 +1,3 @@
-PROGRAM HOWDY
-10 FORMAT (1X,11Fortran: HOWDY WINDOWS)
-WRITE(6,10)
-END
+program howdy
+  print *, "Fortran: Howdy, Windows!"
+end program howdy

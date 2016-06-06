@@ -15,7 +15,7 @@ build:
 	# fortran
 	gfortran fortran/howdy.f90 -o fortran/howdy
 	# golang
-	go build -o golang/howdy howdy.go
+	go build -o golang/howdy golang/howdy.go
 	# haskell
 	ghc -o haskell/howdy haskell/howdy.hs
 	# java
