@@ -1,5 +1,5 @@
 program Howdy;
 
 begin
-	writeln('====> Pascal: Howdy, Windows!');
+	writeln('    ====> Pascal: Howdy, Windows!');
 end.
