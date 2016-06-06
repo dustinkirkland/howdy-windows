@@ -56,4 +56,4 @@ run:
 	bash shell/howdy.sh
 
 clean:
-	rm -f c/howdy c++/howdy erlang/howdy.beam golang/howdy haskell/howdy haskell/howdy.hi haskell/howdy.o java/Howdy.class pascal/howdy pascal/howdy.o fortran/howdy
+	rm -f c/howdy c++/howdy howdy.beam golang/howdy haskell/howdy haskell/howdy.hi haskell/howdy.o java/Howdy.class pascal/howdy pascal/howdy.o fortran/howdy
