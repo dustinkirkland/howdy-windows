@@ -1,6 +1,7 @@
 all:
-	$(shell sudo apt-get update)
-	$(shell sudo apt-get install -y gcc g++ erlang-base gfortran golang ghc openjdk-y-jdk clisp nodejs fp-compiler perl php-cli python ruby bash)
+	# install dependencies
+	sudo apt-get update
+	sudo apt-get install -y gcc g++ erlang-base gfortran golang ghc openjdk-y-jdk clisp nodejs fp-compiler perl php-cli python ruby bash
 	# c
 	gcc -o c/howdy c/howdy.c
 	# c++
