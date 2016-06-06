@@ -1,3 +1,3 @@
 program howdy
-  print *, "Fortran: Howdy, Windows!"
+  print *, "====> Fortran: Howdy, Windows!"
 end program howdy

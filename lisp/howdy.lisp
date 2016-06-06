@@ -1,1 +1,1 @@
-(PRINT "Lisp: Howdy, Windows!")
+(PRINT "====> Lisp: Howdy, Windows!")

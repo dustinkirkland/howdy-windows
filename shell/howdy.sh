@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "Shell: Howdy, Windows!"
+echo "====> Shell: Howdy, Windows!"
