@@ -1,2 +1,1 @@
-(DEFUN HOWDY-WINDOWS ()
-(PRINT (LIST 'HOWDY 'WINDOWS)))
+(PRINT "Howdy, Windows!")
