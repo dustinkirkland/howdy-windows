@@ -1,5 +1,5 @@
 program Howdy;
 
 begin
-	writeln('Howdy, Windows!');
+	writeln('Pascal: Howdy, Windows!');
 end.

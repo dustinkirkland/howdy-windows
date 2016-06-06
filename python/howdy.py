@@ -1,3 +1,3 @@
 #!/usr/bin/python
 
-print("Howdy, Windows!")
+print("Python: Howdy, Windows!")

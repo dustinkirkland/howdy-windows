@@ -1,3 +1,3 @@
 #!/usr/bin/ruby
 
-puts "Howdy, Windows!"
+puts "Ruby: Howdy, Windows!"

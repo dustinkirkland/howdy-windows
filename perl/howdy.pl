@@ -1,3 +1,3 @@
 #!/usr/bin/perl
 
-print("Howdy, Windows!\n");
+print("Perl: Howdy, Windows!\n");

@@ -1,5 +1,5 @@
 #include <iostream>
 
 int main() {
-	std::cout << "Howdy, Windows!";
+	std::cout << "C++: Howdy, Windows!";
 }
