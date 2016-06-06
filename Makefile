@@ -9,7 +9,7 @@ build:
 	# c
 	gcc -o c/howdy c/howdy.c
 	# c++
-	g++ -o c++/howdy c++/howdy.c++
+	g++ -o c++/howdy c++/howdy.cpp
 	# erlang
 	erlc erlang/howdy.erl
 	# fortran
