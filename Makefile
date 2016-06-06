@@ -3,7 +3,7 @@ all: deps build run
 deps:
 	# install build dependencies
 	sudo apt-get update
-	sudo apt-get install -y gcc g++ erlang-base gfortran golang ghc openjdk-y-jdk clisp nodejs fp-compiler perl php-cli python ruby bash
+	sudo apt-get install -y gcc g++ erlang-base gfortran golang ghc openjdk-y-jdk clisp nodejs fp-compiler perl php5-cli python ruby bash
 
 build:
 	# c
