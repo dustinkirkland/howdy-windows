@@ -53,11 +53,17 @@ run:
 	clisp lisp/howdy.lisp
 	# nodejs
 	nodejs nodejs/howdy.js
+	# pascal
 	./pascal/howdy
+	# perl
 	perl perl/howdy.pl
+	# php
 	php php/howdy.php
+	# python
 	python python/howdy.py
+	# ruby
 	ruby ruby/howdy.rb
+	# shell
 	bash shell/howdy.sh
 
 clean:
